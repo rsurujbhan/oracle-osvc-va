@@ -1,0 +1,16 @@
+version: "1.0"
+requires:
+  jsModule:
+  - standard
+  - mobile
+attributes:
+  eu_message_text:
+    name: eu_message_text
+    type: string
+    description: Original text of the end-user's message from the chat form
+    default: ""
+    required: false
+info:
+  description: Automatically inserts input text (e.g., Incident Subject value from
+    chat launch form) into a Virtual Assistant chat session as an End User Post to
+    avoid end-user having to type their initial question again to the VA bot

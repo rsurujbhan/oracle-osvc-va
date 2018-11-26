@@ -1,2 +1,2 @@
 # oracle-osvc-va
-Oracle Virtual Assistant (OVA) Development Projects
+Custom development projects related to the Oracle Virtual Assistant (OVA) feature of Oracle Service Cloud (OSvC)
